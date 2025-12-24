@@ -1,5 +1,5 @@
 ## Kubernetes Kickstarter
-## Targeting Senior DevOps
+
 
 ### Kubernetes In One Shot
 
